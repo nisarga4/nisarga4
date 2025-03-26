@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 🔧 Working with Java,HTML,CSS,SQL.  
 🧑‍🏫 Focused on improving problem-solving and coding skills.  
 🌱 Building projects to learn and grow my knowledge.  
-📫 Let's connect: [email/contact link]  
+📫 Let's connect: [email/contact link] 
